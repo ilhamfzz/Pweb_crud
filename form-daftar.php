@@ -6,7 +6,7 @@
 
 <body>
 	<header>
-		<h3>PWEB C Tugas MySQL</h3>
+		<h3>Daftar Siswa Baru</h3>
 	</header>
 	
 	<form action="proses-pendaftaran.php" method="POST">

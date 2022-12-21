@@ -6,7 +6,7 @@
 
 <body>
 	<header>
-		<h1>PWEB C Tugas MySQL</h1>
+		<h1>PWEB A - CRUD ASSIGNMENT</h1>
 	</header>
 	
 	<h4>Menu</h4>
